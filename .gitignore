@@ -1,0 +1,64 @@
+# =========================
+# Data (do not upload raw)
+# =========================
+data_raw/
+*.tif
+*.tiff
+*.zip
+*.7z
+*.rar
+*.gz
+
+# optional sidecar files created by GDAL/QGIS
+*.tif.aux.xml
+*.tfw
+*.ovr
+*.vrt
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pkl
+*.joblib
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Environments
+# =========================
+.venv/
+venv/
+.env/
+*.conda/
+conda-bld/
+.ipynb_checkpoints/
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Keep outputs tracked (you WANT to upload outputs/)
+# =========================
+!outputs/
+!outputs/**
+
+# (Optional) If you only want to upload figures + report + json, ignore anything else inside outputs:
+# outputs/**
+# !outputs/figures/**
+# !outputs/report.md
+# !outputs/summary.json

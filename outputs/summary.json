@@ -1,0 +1,34 @@
+{
+  "width": 9484,
+  "height": 9004,
+  "crs": "EPSG:4326",
+  "bounds": [
+    3.497916666666667,
+    52.49791666666667,
+    13.377083333333333,
+    61.87708333333333
+  ],
+  "dtype": "float32",
+  "nodata": "nan",
+  "scale": 1.0,
+  "offset": 0.0,
+  "valid_percent": 47.13602029071479,
+  "min": -1276.3399658203125,
+  "max": 23.780000686645508,
+  "mean": -98.13913317941586,
+  "std": 126.93986149922651,
+  "missing_regions_downsample": 1063,
+  "largest_missing_region_pixels_downsample": 1187737,
+  "downsample_shape": [
+    1899,
+    2000
+  ],
+  "params": {
+    "outlier_mad_z": 6.0,
+    "roughness_window": 9,
+    "roughness_min_valid_frac": 0.6,
+    "roughness_clip_percentile": 99.0,
+    "max_plot_dim": 2000
+  },
+  "utm_crs": "EPSG:32632"
+}

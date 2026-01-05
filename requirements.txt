@@ -1,0 +1,6 @@
+numpy
+rasterio
+matplotlib
+scipy
+pyproj
+affine
